@@ -60,8 +60,13 @@ code {
     line-height: 1.8em;
 }
   
-@media (max-width: 700px) {
+@media (max-width: 800px) {
 
+main {
+    margin-left: 10px;
+    margin-bottom: 100px;
+}
+  
   #main-head {
     display: block;
     position: relative;
